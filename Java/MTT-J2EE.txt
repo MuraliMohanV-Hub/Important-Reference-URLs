@@ -1,1 +1,3 @@
-
+STRUTS: https://struts.apache.org/
+HIBERNATE: https://hibernate.org/
+SPRING: https://spring.io/
